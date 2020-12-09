@@ -55,5 +55,3 @@ function imprimirSiEsmayorDeEdad(persona) {
     console.log(`${persona.nombre} es menor de edad`);
   }
 }
-
-// mayorDeEdad(marlon);
